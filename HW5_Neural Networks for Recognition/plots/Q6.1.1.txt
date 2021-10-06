@@ -1,0 +1,303 @@
+Q6.1.1 Process
+iter: 01
+train loss: 3.55         train acc : 0.06     
+validation loss : 3.48   validation acc : 0.07
+iter: 02
+train loss: 3.38         train acc : 0.20     
+validation loss : 3.24   validation acc : 0.28
+iter: 03
+train loss: 3.06         train acc : 0.34     
+validation loss : 2.89   validation acc : 0.38
+iter: 04
+train loss: 2.70         train acc : 0.43     
+validation loss : 2.55   validation acc : 0.44
+iter: 05
+train loss: 2.38         train acc : 0.50     
+validation loss : 2.26   validation acc : 0.49
+iter: 06
+train loss: 2.11         train acc : 0.54
+validation loss : 2.03   validation acc : 0.53
+iter: 07
+train loss: 1.90         train acc : 0.57
+validation loss : 1.86   validation acc : 0.56
+iter: 08
+train loss: 1.74         train acc : 0.60
+validation loss : 1.72   validation acc : 0.58
+iter: 09
+train loss: 1.61         train acc : 0.62
+validation loss : 1.61   validation acc : 0.60
+iter: 10
+train loss: 1.50         train acc : 0.64
+validation loss : 1.52   validation acc : 0.61
+iter: 11
+train loss: 1.42         train acc : 0.65
+validation loss : 1.45   validation acc : 0.63
+iter: 12
+train loss: 1.35         train acc : 0.67
+validation loss : 1.39   validation acc : 0.64
+iter: 13
+train loss: 1.29         train acc : 0.68
+validation loss : 1.35   validation acc : 0.65
+iter: 14
+train loss: 1.23         train acc : 0.69
+validation loss : 1.31   validation acc : 0.65
+iter: 15
+train loss: 1.19         train acc : 0.70
+validation loss : 1.27   validation acc : 0.66
+iter: 16
+train loss: 1.15         train acc : 0.71
+validation loss : 1.24   validation acc : 0.67
+iter: 17
+train loss: 1.11         train acc : 0.71
+validation loss : 1.22   validation acc : 0.67
+iter: 18
+train loss: 1.08         train acc : 0.72
+validation loss : 1.20   validation acc : 0.67
+iter: 19
+train loss: 1.05         train acc : 0.73
+validation loss : 1.17   validation acc : 0.67
+iter: 20
+train loss: 1.02         train acc : 0.73
+validation loss : 1.16   validation acc : 0.68
+iter: 21
+train loss: 0.99         train acc : 0.74
+validation loss : 1.14   validation acc : 0.68
+iter: 22
+train loss: 0.97         train acc : 0.75
+validation loss : 1.13   validation acc : 0.68
+iter: 23
+train loss: 0.95         train acc : 0.75
+validation loss : 1.11   validation acc : 0.69
+iter: 24
+train loss: 0.93         train acc : 0.76
+validation loss : 1.10   validation acc : 0.69
+iter: 25
+train loss: 0.91         train acc : 0.76
+validation loss : 1.09   validation acc : 0.69
+iter: 26
+train loss: 0.89         train acc : 0.77
+validation loss : 1.08   validation acc : 0.70
+iter: 27
+train loss: 0.87         train acc : 0.77
+validation loss : 1.07   validation acc : 0.70
+iter: 28
+train loss: 0.85         train acc : 0.78
+validation loss : 1.06   validation acc : 0.70
+iter: 29
+train loss: 0.84         train acc : 0.78
+validation loss : 1.05   validation acc : 0.71
+iter: 30
+train loss: 0.82         train acc : 0.79
+validation loss : 1.04   validation acc : 0.71
+iter: 31
+train loss: 0.80         train acc : 0.79
+validation loss : 1.04   validation acc : 0.71
+iter: 32
+train loss: 0.79         train acc : 0.79
+validation loss : 1.03   validation acc : 0.71
+iter: 33
+train loss: 0.78         train acc : 0.80
+validation loss : 1.02   validation acc : 0.71
+iter: 34
+train loss: 0.76         train acc : 0.80
+validation loss : 1.01   validation acc : 0.71
+iter: 35
+train loss: 0.75         train acc : 0.80
+validation loss : 1.01   validation acc : 0.71
+iter: 36
+train loss: 0.74         train acc : 0.81
+validation loss : 1.00   validation acc : 0.71
+iter: 37
+train loss: 0.72         train acc : 0.81
+validation loss : 1.00   validation acc : 0.72
+iter: 38
+train loss: 0.71         train acc : 0.81
+validation loss : 0.99   validation acc : 0.72
+iter: 39
+train loss: 0.70         train acc : 0.82
+validation loss : 0.99   validation acc : 0.72
+iter: 40
+train loss: 0.69         train acc : 0.82
+validation loss : 0.98   validation acc : 0.72
+iter: 41
+train loss: 0.68         train acc : 0.82
+validation loss : 0.98   validation acc : 0.72
+iter: 42
+train loss: 0.67         train acc : 0.83
+validation loss : 0.97   validation acc : 0.72
+iter: 43
+train loss: 0.66         train acc : 0.83
+validation loss : 0.97   validation acc : 0.72
+iter: 44
+train loss: 0.65         train acc : 0.83
+validation loss : 0.96   validation acc : 0.72
+iter: 45
+train loss: 0.64         train acc : 0.84
+validation loss : 0.96   validation acc : 0.72
+iter: 46
+train loss: 0.63         train acc : 0.84
+validation loss : 0.96   validation acc : 0.72
+iter: 47
+train loss: 0.62         train acc : 0.84
+validation loss : 0.95   validation acc : 0.73
+iter: 48
+train loss: 0.61         train acc : 0.84
+validation loss : 0.95   validation acc : 0.73
+iter: 49
+train loss: 0.60         train acc : 0.85
+validation loss : 0.94   validation acc : 0.73
+iter: 50
+train loss: 0.60         train acc : 0.85
+validation loss : 0.94   validation acc : 0.73
+iter: 51
+train loss: 0.59         train acc : 0.85
+validation loss : 0.94   validation acc : 0.73
+iter: 52
+train loss: 0.58         train acc : 0.85
+validation loss : 0.94   validation acc : 0.73
+iter: 53
+train loss: 0.57         train acc : 0.86
+validation loss : 0.93   validation acc : 0.73
+iter: 54
+train loss: 0.56         train acc : 0.86
+validation loss : 0.93   validation acc : 0.73
+iter: 55
+train loss: 0.56         train acc : 0.86
+validation loss : 0.93   validation acc : 0.73
+iter: 56
+train loss: 0.55         train acc : 0.86
+validation loss : 0.92   validation acc : 0.74
+iter: 57
+train loss: 0.54         train acc : 0.87
+validation loss : 0.92   validation acc : 0.74
+iter: 58
+train loss: 0.53         train acc : 0.87
+validation loss : 0.92   validation acc : 0.74
+iter: 59
+train loss: 0.53         train acc : 0.87
+validation loss : 0.92   validation acc : 0.74
+iter: 60
+train loss: 0.52         train acc : 0.87
+validation loss : 0.91   validation acc : 0.74
+iter: 61
+train loss: 0.51         train acc : 0.87
+validation loss : 0.91   validation acc : 0.74
+iter: 62
+train loss: 0.51         train acc : 0.88
+validation loss : 0.91   validation acc : 0.74
+iter: 63
+train loss: 0.50         train acc : 0.88
+validation loss : 0.91   validation acc : 0.74
+iter: 64
+train loss: 0.49         train acc : 0.88
+validation loss : 0.91   validation acc : 0.74
+iter: 65
+train loss: 0.49         train acc : 0.88
+validation loss : 0.90   validation acc : 0.74
+iter: 66
+train loss: 0.48         train acc : 0.88
+validation loss : 0.90   validation acc : 0.74
+iter: 67
+train loss: 0.47         train acc : 0.89
+validation loss : 0.90   validation acc : 0.74
+iter: 68
+train loss: 0.47         train acc : 0.89
+validation loss : 0.90   validation acc : 0.74
+iter: 69
+train loss: 0.46         train acc : 0.89
+validation loss : 0.90   validation acc : 0.74
+iter: 70
+train loss: 0.46         train acc : 0.89
+validation loss : 0.90   validation acc : 0.74
+iter: 71
+train loss: 0.45         train acc : 0.89
+validation loss : 0.89   validation acc : 0.75
+iter: 72
+train loss: 0.45         train acc : 0.89
+validation loss : 0.89   validation acc : 0.75
+iter: 73
+train loss: 0.44         train acc : 0.89
+validation loss : 0.89   validation acc : 0.75
+iter: 74
+train loss: 0.43         train acc : 0.90
+validation loss : 0.89   validation acc : 0.75
+iter: 75
+train loss: 0.43         train acc : 0.90
+validation loss : 0.89   validation acc : 0.75
+iter: 76
+train loss: 0.42         train acc : 0.90
+validation loss : 0.89   validation acc : 0.75
+iter: 77
+train loss: 0.42         train acc : 0.90
+validation loss : 0.89   validation acc : 0.75
+iter: 78
+train loss: 0.41         train acc : 0.90
+validation loss : 0.89   validation acc : 0.75
+iter: 79
+train loss: 0.41         train acc : 0.90
+validation loss : 0.89   validation acc : 0.75
+iter: 80
+train loss: 0.40         train acc : 0.91
+validation loss : 0.88   validation acc : 0.75
+iter: 81
+train loss: 0.40         train acc : 0.91
+validation loss : 0.88   validation acc : 0.75
+iter: 82
+train loss: 0.39         train acc : 0.91
+validation loss : 0.88   validation acc : 0.75
+iter: 83
+train loss: 0.39         train acc : 0.91
+validation loss : 0.88   validation acc : 0.75
+iter: 84
+train loss: 0.39         train acc : 0.91
+validation loss : 0.88   validation acc : 0.75
+iter: 85
+train loss: 0.38         train acc : 0.91
+validation loss : 0.88   validation acc : 0.75
+iter: 86
+train loss: 0.38         train acc : 0.92
+validation loss : 0.88   validation acc : 0.75
+iter: 87
+train loss: 0.37         train acc : 0.92
+validation loss : 0.88   validation acc : 0.75
+iter: 88
+train loss: 0.37         train acc : 0.92
+validation loss : 0.88   validation acc : 0.75
+iter: 89
+train loss: 0.36         train acc : 0.92
+validation loss : 0.88   validation acc : 0.75
+iter: 90
+train loss: 0.36         train acc : 0.92
+validation loss : 0.88   validation acc : 0.75
+iter: 91
+train loss: 0.36         train acc : 0.92
+validation loss : 0.88   validation acc : 0.75
+iter: 92
+train loss: 0.35         train acc : 0.92
+validation loss : 0.88   validation acc : 0.75
+iter: 93
+train loss: 0.35         train acc : 0.92
+validation loss : 0.88   validation acc : 0.75
+iter: 94
+train loss: 0.35         train acc : 0.93
+validation loss : 0.88   validation acc : 0.75
+iter: 95
+train loss: 0.34         train acc : 0.93
+validation loss : 0.87   validation acc : 0.75
+iter: 96
+train loss: 0.34         train acc : 0.93
+validation loss : 0.87   validation acc : 0.75
+iter: 97
+train loss: 0.33         train acc : 0.93
+validation loss : 0.87   validation acc : 0.75
+iter: 98
+train loss: 0.33         train acc : 0.93
+validation loss : 0.87   validation acc : 0.75
+iter: 99
+train loss: 0.33         train acc : 0.93
+validation loss : 0.87   validation acc : 0.75
+iter: 100
+train loss: 0.32         train acc : 0.93
+validation loss : 0.87   validation acc : 0.75
+Test
+test loss : 0.88         test accuracy : 0.76

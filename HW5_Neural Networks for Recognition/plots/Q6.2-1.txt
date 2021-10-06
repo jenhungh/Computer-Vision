@@ -1,0 +1,84 @@
+Q6.2-1 Process
+iter: 01
+train loss: 2.53         train acc : 0.33
+iter: 02
+train loss: 0.78         train acc : 0.80
+iter: 03
+train loss: 0.37         train acc : 0.92
+iter: 04
+train loss: 0.25         train acc : 0.95
+iter: 05
+train loss: 0.18         train acc : 0.97
+iter: 06
+train loss: 0.14         train acc : 0.98
+iter: 07
+train loss: 0.11         train acc : 0.99
+iter: 08
+train loss: 0.09         train acc : 0.99
+iter: 09
+train loss: 0.07         train acc : 0.99
+iter: 10
+train loss: 0.06         train acc : 1.00
+iter: 11
+train loss: 0.05         train acc : 1.00
+iter: 12
+train loss: 0.05         train acc : 1.00
+iter: 13
+train loss: 0.04         train acc : 1.00
+iter: 14
+train loss: 0.04         train acc : 1.00
+iter: 15
+train loss: 0.03         train acc : 1.00
+iter: 16
+train loss: 0.03         train acc : 1.00
+iter: 17
+train loss: 0.03         train acc : 1.00
+iter: 18
+train loss: 0.02         train acc : 1.00
+iter: 19
+train loss: 0.02         train acc : 1.00
+iter: 20
+train loss: 0.02         train acc : 1.00
+Train the SqueezeNet
+iter: 01
+train loss: 0.05         train acc : 0.99
+iter: 02
+train loss: 0.02         train acc : 1.00
+iter: 03
+train loss: 0.00         train acc : 1.00
+iter: 04
+train loss: 0.00         train acc : 1.00
+iter: 05
+train loss: 0.00         train acc : 1.00
+iter: 06
+train loss: 0.00         train acc : 1.00
+iter: 07
+train loss: 0.00         train acc : 1.00
+iter: 08
+train loss: 0.00         train acc : 1.00
+iter: 09
+train loss: 0.00         train acc : 1.00
+iter: 10
+train loss: 0.00         train acc : 1.00
+iter: 11
+train loss: 0.00         train acc : 1.00
+iter: 12
+train loss: 0.00         train acc : 1.00
+iter: 13
+train loss: 0.00         train acc : 1.00
+iter: 14
+train loss: 0.00         train acc : 1.00
+iter: 15
+train loss: 0.00         train acc : 1.00
+iter: 16
+train loss: 0.00         train acc : 1.00
+iter: 17
+train loss: 0.00         train acc : 1.00
+iter: 18
+train loss: 0.00         train acc : 1.00
+iter: 19
+train loss: 0.00         train acc : 1.00
+iter: 20
+train loss: 0.00         train acc : 1.00
+Test
+test loss : 0.44         test accuracy : 0.91
